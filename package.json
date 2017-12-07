@@ -4,6 +4,10 @@
   "license": "Allmyhomes GmbH",
   "angular-cli": {},
   "author": "Maximiliano Suster",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smartexpose/angular4-test.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
