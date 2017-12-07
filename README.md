@@ -76,7 +76,7 @@ The following contents must be shown from top to bottom:
 **Services**
 
 - `BlogService`:
-   - Shared service which provides a simple method to load the data, i.e., array of entries (title, image, text) asynchronously
+   - Shared service which provides a simple method to load the data, i.e., array of entries (title, image, text) asynchronously with RxJs Observables.
 
 **Pipes**
 
